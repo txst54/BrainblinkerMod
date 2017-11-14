@@ -1,3 +1,4 @@
 # BrainblinkerMod
-Created 2017 by Clint Wang
-The code is used for the arduino and Star Wars Force Trainer to help students conentrate.
+Created 2017 by Clint Wang.
+This code is compatile with the Arduino and Star Wars Force Trainer to help students conentrate.
+The Library Brain.h is nesseccary for the arduino to work.
